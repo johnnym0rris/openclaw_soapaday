@@ -1,0 +1,31 @@
+{
+  "date": "2026-07-28",
+  "hook_type": "read_this_if",
+  "topic": "Read this if you're doubting",
+  "cards": [
+    {
+      "card": 1,
+      "type": "hook",
+      "text": "Read this if you're doubting"
+    },
+    {
+      "card": 2,
+      "type": "verse",
+      "reference": "Mark 9:24",
+      "text": "Immediately the boy's father exclaimed, 'I do believe; help me overcome my unbelief!'"
+    },
+    {
+      "card": 3,
+      "type": "reflection",
+      "text": "This is one of the most honest prayers in Scripture. The father didn't pretend his faith was perfect — he brought his doubt directly to Jesus. God doesn't ask for perfect faith. He asks for honest faith. Bring your doubts to Him today."
+    },
+    {
+      "card": 4,
+      "type": "cta",
+      "text": "Start your honest conversation with God → SOAPaDay.com"
+    }
+  ],
+  "caption": "Doubt doesn't disqualify you — it's often where real faith begins. 💬\n\nMark 9:24 reminds us that even the father who brought his son to Jesus had mixed faith. He believed AND doubted at the same time.\n\nThe beautiful thing? Jesus still healed his son.\n\nYour doubts don't scare God. Bring them to Him. Write them down. Let Him meet you in the tension.\n\n#SOAPaDay #BibleStudy #DailyDevotional #FaithJournaling #ScriptureStudy #ChristianLiving #BibleApp #QuietTime",
+  "status": "pending",
+  "created_at": "2026-07-28T17:00:00"
+}
