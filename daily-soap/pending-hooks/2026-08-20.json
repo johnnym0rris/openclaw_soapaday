@@ -1,0 +1,27 @@
+{
+  "hook_type": "3_verses_when",
+  "content": {
+    "hook_text": "3 verses when you need to remember God is still working",
+    "subtext": "For the days when nothing seems to be moving",
+    "verses": [
+      {
+        "reference": "Romans 8:28",
+        "text": "And we know that in all things God works for the good of those who love him, who have been called according to his purpose."
+      },
+      {
+        "reference": "Philippians 1:6",
+        "text": "Being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus."
+      },
+      {
+        "reference": "Isaiah 43:19",
+        "text": "See, I am doing a new thing! Now it springs up; do you not perceive it? I am making a way in the wilderness and streams in the wasteland."
+      }
+    ],
+    "cta": "Which verse reminds you that God is still working?",
+    "caption": "Some seasons feel like nothing is happening. But God is always working \u2014 behind the scenes, in the waiting, in the wilderness. Here are three verses I return to when I need that reminder.\n\nWhich one speaks to you today? \ud83d\udcac\n\n#SOAPaDay #BibleStudy #DailyDevotional #FaithJournaling #ScriptureStudy #ChristianLiving #BibleApp #QuietTime"
+  },
+  "status": "posted",
+  "created_at": "2026-08-20T19:01:15.372724",
+  "updated_at": "2026-08-20T19:45:00.000000",
+  "posted_at": "2026-08-20T21:46:35.239984"
+}

@@ -1,0 +1,25 @@
+{
+  "hook_type": "3_verses_when",
+  "content": {
+    "hook_text": "3 verses I return to when a relationship feels broken",
+    "verses": [
+      {
+        "reference": "Romans 12:18",
+        "text": "If it is possible, as far as it depends on you, live at peace with everyone."
+      },
+      {
+        "reference": "Ephesians 4:32",
+        "text": "Be kind and compassionate to one another, forgiving each other, just as in Christ God forgave you."
+      },
+      {
+        "reference": "Colossians 3:13",
+        "text": "Bear with each other and forgive one another if any of you has a grievance against someone. Forgive as the Lord forgave you."
+      }
+    ],
+    "cta": "Which verse helps you navigate hard relationships? Comment below \ud83d\udcac",
+    "caption": "Some verses don't fix the situation\u2014but they fix my heart before I respond. These three have kept me from saying things I'd regret and helped me show up with grace instead of defensiveness.\n\nThe hardest part? \"As far as it depends on you.\" That's all I can control. My attitude. My forgiveness. My willingness to try.\n\nWhat verse do you return to when a relationship feels strained? Drop it below\u2014I'm building my own list. \ud83d\udc47\n\n#SOAPaDay #BibleStudy #FaithJournaling #ScriptureStudy #ChristianLiving #DailyDevotional #BibleApp #FaithCommunity"
+  },
+  "status": "pending",
+  "created_at": "2026-08-13T19:00:48.062216",
+  "updated_at": "2026-08-13T19:00:48.062241"
+}

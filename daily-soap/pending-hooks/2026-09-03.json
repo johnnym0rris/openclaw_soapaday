@@ -1,0 +1,29 @@
+{
+  "hook_type": "3_verses_when",
+  "content": {
+    "hook_text": "3 verses when you need to remember who God is",
+    "verses": [
+      {
+        "reference": "Psalm 18:2",
+        "text": "The Lord is my rock, my fortress and my deliverer; my God is my rock, in whom I take refuge, my shield and the horn of my salvation, my stronghold.",
+        "translation": "NIV"
+      },
+      {
+        "reference": "Isaiah 41:10",
+        "text": "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.",
+        "translation": "NIV"
+      },
+      {
+        "reference": "Psalm 46:1",
+        "text": "God is our refuge and strength, an ever-present help in trouble.",
+        "translation": "NIV"
+      }
+    ],
+    "caption": "When life feels heavy, we don't need more information \u2014 we need to remember who God is. \ud83d\udcaa\n\nThese three verses have carried people through battles, anxiety, and uncertainty for thousands of years.\n\nWhich one speaks to where you are right now?\n\n#SOAPaDay #BibleStudy #DailyDevotional #FaithJournaling #ScriptureStudy #ChristianLiving #BibleApp #QuietTime #FaithDaily #BibleReflection",
+    "cta": "Study these verses in SOAPaDay \u2014 Write. Reflect. Pray."
+  },
+  "status": "posted",
+  "created_at": "2026-09-03T19:00:37.365992",
+  "updated_at": "2026-09-03T19:04:00.000000",
+  "posted_at": "2026-09-03T19:05:32.421816"
+}

@@ -31,6 +31,7 @@ def save_reflection(date_str, scripture, observation, application, prayer):
         "application": application,
         "prayer": prayer
     }
+    data["status"] = "approved"
     
     with open(pending_file, 'w') as f:
         json.dump(data, f, indent=2)
