@@ -318,11 +318,12 @@ def create_vs_card(misconception, actual_meaning):
     
     think_body = get_font('ui', int(32 * scale))
     lines = textwrap.wrap(misconception, width=36)
+    think_lines_height = len(lines) * 44
     for i, line in enumerate(lines):
         draw.text((PADDING_H, 250 + i*44), line, font=think_body, fill=ON_SURFACE_COLOR)
     
-    # VS divider
-    vs_y = 420
+    # VS divider — dynamic position based on content height + padding
+    vs_y = 250 + think_lines_height + 60  # 60px padding after "what people think"
     draw.rectangle([PADDING_H, vs_y, CANVAS_WIDTH - PADDING_H, vs_y+2], fill="#E0E0E0")
     vs_font = get_font('display', int(28 * scale))
     bbox = draw.textbbox((0, 0), "VS", font=vs_font)
@@ -330,8 +331,8 @@ def create_vs_card(misconception, actual_meaning):
     x = (CANVAS_WIDTH - width) // 2
     draw.text((x, vs_y-20), "VS", font=vs_font, fill=PRIMARY_COLOR)
     
-    # "What it means" section
-    mean_y = 480
+    # "What it means" section — padding after VS divider
+    mean_y = vs_y + 60  # 60px padding after VS line
     draw.text((PADDING_H, mean_y), "WHAT IT ACTUALLY MEANS:", font=think_font, fill=PRIMARY_COLOR)
     
     lines = textwrap.wrap(actual_meaning, width=36)
